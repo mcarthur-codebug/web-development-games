@@ -16,3 +16,7 @@ Games for Web Development Course
 [Flexbox Froggy](http://flexboxfroggy.com/) - Learn Flexbox
 
 [Hex Invaders](http://www.hexinvaders.com/) - Guess Hex Colors to destroy the invaders!
+
+
+### JavaScript
+[Code Wars](https://www.codewars.com) - Need to know functions.
